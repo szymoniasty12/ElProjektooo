@@ -1,0 +1,8 @@
+C:\Users\Milo\source\repos\ProjektNaInf1235\ProjektNaInf1235\bin\Debug\ProjektNaInf1235.exe.config
+C:\Users\Milo\source\repos\ProjektNaInf1235\ProjektNaInf1235\bin\Debug\ProjektNaInf1235.exe
+C:\Users\Milo\source\repos\ProjektNaInf1235\ProjektNaInf1235\bin\Debug\ProjektNaInf1235.pdb
+C:\Users\Milo\source\repos\ProjektNaInf1235\ProjektNaInf1235\obj\Debug\ProjektNaInf1235.csproj.AssemblyReference.cache
+C:\Users\Milo\source\repos\ProjektNaInf1235\ProjektNaInf1235\obj\Debug\ProjektNaInf1235.csproj.SuggestedBindingRedirects.cache
+C:\Users\Milo\source\repos\ProjektNaInf1235\ProjektNaInf1235\obj\Debug\ProjektNaInf1235.csproj.CoreCompileInputs.cache
+C:\Users\Milo\source\repos\ProjektNaInf1235\ProjektNaInf1235\obj\Debug\ProjektNaInf1235.exe
+C:\Users\Milo\source\repos\ProjektNaInf1235\ProjektNaInf1235\obj\Debug\ProjektNaInf1235.pdb
